@@ -1,0 +1,65 @@
+"""
+Character represents a character in the show
+"""
+type Character {
+    "Internal identifier"
+    id: ID!
+    "Character name, all caps"
+    name: String! @id @search(by: [term, regexp])
+    "The episodes this character appears in"
+    episodes: [Episode]
+    "The lines this character has"
+    lines: [Line]
+}
+
+"""
+Season represents a season of the show
+"""
+type Season {
+    "Internal identifier"
+    id: ID!
+    "Season number"
+    number: Int! @id @search
+    "The episodes in the Season"
+    episodes: [Episode] @hasInverse(field: season)
+}
+
+"""
+Episode represents an episode of the show
+"""
+type Episode {
+    "Internal identifier"
+    id: ID!
+    "Episode identifier, in the format S01E01"
+    identifier: String! @id @search(by: [term])
+    "Episode number"
+    number: Int! @search
+    "Episode title"
+    title: String! @search(by: [term, regexp])
+    "Air date"
+    airDate: DateTime! @search
+    "The characters in the episode"
+    characters: [Character] @hasInverse(field: episodes)
+    "The lines in the episode"
+    directors: [String] @search(by: [term])
+    "The writers of the episode"
+    writers: [String] @search(by: [term])
+    "The season in which this episode appears"
+    season: Season @hasInverse(field: episodes)
+    "The lines in the episode"
+    lines: [Line] @hasInverse(field: episode)
+}
+
+"""
+Line represents a line of dialogue in the show
+"""
+type Line {
+    "Internal identifier"
+    id: ID!
+    "The dialogue text"
+    text: String! @search(by: [term, regexp])
+    "The character who said the line"
+    character: Character @hasInverse(field: lines)
+    "The episode in which the line appears"
+    episode: Episode @hasInverse(field: lines)
+}
