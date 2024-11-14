@@ -36,11 +36,15 @@ type Episode {
     number: Int! @search
     "Episode title"
     title: String! @search(by: [term, regexp])
+    "Episode summary"
+    summary: String @search(by: [term])
+    "Episode summary embedding"
+    summary_v: [Float!] @embedding @search(by: ["hnsw(metric: cosine, exponent: 3)"])
     "Air date"
     airDate: DateTime! @search
     "The characters in the episode"
     characters: [Character] @hasInverse(field: episodes)
-    "The lines in the episode"
+    "The directors of the episode"
     directors: [String] @search(by: [term])
     "The writers of the episode"
     writers: [String] @search(by: [term])
@@ -56,8 +60,12 @@ Line represents a line of dialogue in the show
 type Line {
     "Internal identifier"
     id: ID!
+    "The line number in the episode"
+    number: Int! @search
     "The dialogue text"
     text: String! @search(by: [term, regexp])
+    "The dialogue text embedding"
+    text_v: [Float!] @embedding @search(by: ["hnsw(metric: cosine, exponent: 5)"])
     "The character who said the line"
     character: Character @hasInverse(field: lines)
     "The episode in which the line appears"
