@@ -19,6 +19,13 @@ import: ## Import data
 	python episode_importer.py
 	python script_importer.py
 
+build-image: ## Build the self-contained Dgraph and Jupyter Lab image
+	# need to be logged in to dockerhub for this to work, `docker login -u matthewmcneely`
+	docker buildx build --platform linux/amd64 --platform linux/arm64 -t matthewmcneely/dgraph-vector-experiment --output=type=registry .
+
+run-image: ## Run the self-contained Dgraph and Jupyter Lab image
+	docker run -p 8080:8080 -p 9080:9080 matthewmcneely/dgraph-vector-experiment
+
 help: ## Print target help
 	@grep -E '^[0-9a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
