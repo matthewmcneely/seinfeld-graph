@@ -18,6 +18,12 @@ After cloning...
 1. `make up`
 1. in a separate terminal window: `make schema import`
 
+Alternatively, you can run everything (including a self-contained Dgraph cluster) with:
+
+```make run-image```
+
+The containerized Jupyter Lab will have a notebook which demos the Dgraph Vector Embeddings search functionality.
+
 ### Stats
 
 * 9 Seasons
