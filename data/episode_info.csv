@@ -1,175 +1,175 @@
-,Season,EpisodeNo,Title,AirDate,Writers,Director,SEID
-0,1.0,0.0,"Good News, Bad News","July 5, 1989","Larry David, Jerry Seinfeld",Art Wolff,S01E00
-1,1.0,1.0,The Stakeout,"May 31, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E01
-2,1.0,2.0,The Robbery,"June 7, 1990",Matt Goldman,Tom Cherones,S01E02
-3,1.0,3.0,Male Unbonding,"June 14, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E03
-4,1.0,4.0,The Stock Tip,"June 21, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E04
-5,2.0,1.0,The Ex-Girlfriend,"January 16, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E01
-6,2.0,2.0,The Pony Remark,"January 30, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E02
-7,2.0,3.0,The Jacket,"February 6, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E03
-8,2.0,4.0,The Phone Message,"February 13, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E04
-9,2.0,5.0,The Apartment,"April 4, 1991",Peter Mehlman,Tom Cherones,S02E05
-10,2.0,6.0,The Statue,"April 11, 1991",Larry David,Tom Cherones,S02E06
-11,2.0,7.0,The Revenge,"April 18, 1991",Larry David,Tom Cherones,S02E07
-12,2.0,8.0,The Heart Attack,"April 25, 1991",Larry Charles,Tom Cherones,S02E08
-13,2.0,9.0,The Deal,"May 2, 1991",Larry Charles,Tom Cherones,S02E09
-14,2.0,10.0,The Baby Shower,"May 16, 1991",Larry Charles,Tom Cherones,S02E10
-15,2.0,11.0,The Chinese Restaurant,"May 23, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E11
-16,2.0,12.0,The Busboy,"June 26, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E12
-17,3.0,1.0,The Note,"September 18, 1991",Larry David,Tom Cherones,S03E01
-18,3.0,2.0,The Truth,"September 25, 1991",Elaine Pope,David Steinberg,S03E02
-19,3.0,3.0,The Pen,"October 2, 1991",Larry David,Tom Cherones,S03E03
-20,3.0,4.0,The Dog,"October 9, 1991",Larry David,Tom Cherones,S03E04
-21,3.0,5.0,The Library,"October 16, 1991",Larry Charles,Joshua White,S03E05
-22,3.0,6.0,The Parking Garage,"October 30, 1991",Larry David,Tom Cherones,S03E06
-23,3.0,7.0,The Cafe,"November 6, 1991",Tom Leopold,Tom Cherones,S03E07
-24,3.0,8.0,The Tape,"November 13, 1991","Larry David and Bob Shaw, Don McEnery",David&nbsp; Steinberg,S03E08
-25,3.0,9.0,The Nose Job,"November 20, 1991",Peter Mehlman,Tom Cherones,S03E09
-26,3.0,10.0,The Stranded,"November 27, 1991","Larry David, Jerry Seinfeld and Matt Goldman",Tom Cherones,S03E10
-27,3.0,11.0,The Alternate Side,"December 4, 1991",Larry David and Bill Masters,Tom Cherones,S03E11
-28,3.0,12.0,The Red Dot,"December 11, 1991",Larry David,Tom Cherones,S03E12
-29,3.0,13.0,The Subway,"January 8, 1992",Larry David,Tom Cherones,S03E13
-30,3.0,14.0,The Pez Dispenser,"January 15, 1992",Larry David,Tom Cherones,S03E14
-31,3.0,15.0,The Suicide,"January 29, 1992",Tom Leopold,Tom Cherones,S03E15
-32,3.0,16.0,The Fix-Up,"February 5, 1992","Elaine Pope, Larry Charles",Tom Cherones,S03E16
-33,3.0,17.0,The Boyfriend (1),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E17
-34,3.0,18.0,The Boyfriend (2),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E18
-35,3.0,19.0,The Limo,"February 26, 1992",Larry Charles / Story By Marc Jaffe,Tom Cherones,S03E19
-36,3.0,20.0,The Good Samaritan,"March 4, 1992",Peter Mehlman,Jason Alexander,S03E20
-37,3.0,21.0,The Letter,"March 25, 1992",Larry David,Tom Cherones,S03E21
-38,3.0,22.0,The Parking Space,"April 22, 1992",Larry David and Greg Daniels,Tom Cherones,S03E22
-39,3.0,23.0,The Keys,"May 6, 1992",Larry Charles,Tom Cherones,S03E23
-40,4.0,1.0,The Trip (1),"August 12, 1992",Larry Charles,Tom Cherones,S04E01
-41,4.0,2.0,The Trip (2),"August 19, 1992",Larry Charles,Tom Cherones,S04E02
-42,4.0,3.0,The Pitch,"September 16, 1992",Larry Charles,Tom Cherones,S04E03
-43,4.0,4.0,The Ticket,"September 16, 1992",Larry David,Tom Cherones,S04E04
-44,4.0,5.0,The Wallet (1),"September 23, 1992",Larry David,Tom Cherones,S04E05
-45,4.0,6.0,The Watch (2),"September 30, 1992",Larry David,Tom Cherones,S04E06
-46,4.0,7.0,The Bubble Boy,"October 7, 1992","Larry David, Larry Charles",Tom Cherones,S04E07
-47,4.0,8.0,The Cheever Letters,"October 28, 1992","Larry David, Larry Charles",Tom Cherones,S04E08
-48,4.0,9.0,The Opera,"November 4, 1992",Larry Charles,Tom Cherones,S04E09
-49,4.0,10.0,The Virgin,"November 11, 1992",Peter Mehlman,Tom Cherones,S04E10
-50,4.0,11.0,The Contest,"November 18, 1992",Larry David,Tom Cherones,S04E11
-51,4.0,12.0,The Airport,"November 25, 1992",Larry Charles,Tom Cherones,S04E12
-52,4.0,13.0,The Pick,"December 16, 1992",Larry Charles,Tom Cherones,S04E13
-53,4.0,14.0,The Movie,"January 6, 1993","Steve Skrovan, Bill Masters, Jon Hayman",Tom Cherones,S04E14
-54,4.0,15.0,The Visa,"January 27, 1993",Peter Mehlman,Tom Cherones,S04E15
-55,4.0,16.0,The Shoes,"February 4, 1993","Larry David, Jerry Seinfeld",Tom Cherones,S04E16
-56,4.0,17.0,The Outing,"February 11, 1993",Larry Charles,Tom Cherones,S04E17
-57,4.0,18.0,The Old Man,"February 18, 1993",Bruce Kirschbaum,Tom Cherones,S04E18
-58,4.0,19.0,The Implant,"February 25, 1993",Peter Mehlman,Tom Cherones,S04E19
-59,4.0,20.0,The Junior Mint,"March 18, 1993",Andy Robin,Tom Cherones,S04E20
-60,4.0,21.0,The Smelly Car,"April 15, 1993","Larry David, Peter Mehlman",Tom Cherones,S04E21
-61,4.0,22.0,The Handicap Spot,"May 13, 1993",Larry David,Tom Cherones,S04E22
-62,4.0,23.0,The Pilot (1),"May 20, 1993",Larry David,Tom Cherones,S04E23
-63,4.0,24.0,The Pilot (2),"May 20, 1993",Larry David,Tom Cherones,S04E24
-64,5.0,1.0,The Mango,"September 16, 1993","Lawrence H. Levy, Buck Dancer (Larry David pseudonym)",Tom Cherones,S05E01
-65,5.0,2.0,The Puffy Shirt,"September 23, 1993",Larry David,Tom Cherones,S05E02
-66,5.0,3.0,The Glasses,"September 30, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E03
-67,5.0,4.0,The Sniffing Accountant,"October 7, 1993","Larry David, Jerry Seinfeld",Tom Cherones,S05E04
-68,5.0,5.0,The Bris,"October 14, 1993",Larry Charles,Tom Cherones,S05E05
-69,5.0,6.0,The Lip Reader,"October 28, 1993",Carol Leifer,Tom Cherones,S05E06
-70,5.0,7.0,The Non-Fat Yogurt,"November 4, 1993",Larry David,Tom Cherones,S05E07
-71,5.0,8.0,The Barber,"November 11, 1993",Andy Robin,Tom Cherones,S05E08
-72,5.0,9.0,The Masseuse,"November 18, 1993",Peter Mehlman,Tom Cherones,S05E09
-73,5.0,10.0,The Cigar Store Indian,"December 9, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E10
-74,5.0,11.0,The Conversion,"December 16, 1993",Bruce Kirschbaum,Tom Cherones,S05E11
-75,5.0,12.0,The Stall,"January 6, 1994",Larry Charles,Tom Cherones,S05E12
-76,5.0,13.0,The Dinner Party,"February 3, 1994",Larry David,Tom Cherones,S05E13
-77,5.0,14.0,The Marine Biologist,"February 10, 1994","Ron Hague, Charlie Rubin",Tom Cherones,S05E14
-78,5.0,15.0,The Pie,"February 17, 1994","Tom Gammill, Max Pross",Tom Cherones,S05E15
-79,5.0,16.0,The Stand-In,"February 24, 1994",Larry David,Tom Cherones,S05E16
-80,5.0,17.0,The Wife,"March 17, 1994",Peter Mehlman,Tom Cherones,S05E17
-81,5.0,18.0,The Raincoats,April 28 1994,"Tom Gammill, Max Pross and Larry David, Jerry Seinfeld",Tom Cherones,S05E18
-82,5.0,20.0,The Fire,"May 5, 1994",Larry Charles,Tom Cherones,S05E20
-83,5.0,21.0,The Hamptons,"May 12, 1994","Peter Mehlman, Carol Leifer",Tom Cherones,S05E21
-84,5.0,22.0,The Opposite,"May 19, 1994","Andy Cowan and Larry David, Jerry Seinfeld",Tom Cherones,S05E22
-85,6.0,1.0,The Chaperone,"September 22, 1994","Larry David, Bill Masters, Bob Shaw",Andy Ackerman,S06E01
-86,6.0,2.0,The Big Salad,"September 29, 1994",Larry David,Andy Ackerman,S06E02
-87,6.0,3.0,The Pledge Drive,"October 6, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E03
-88,6.0,4.0,The Chinese Woman,"October 13, 1994",Peter Mehlman,Andy Ackerman,S06E04
-89,6.0,5.0,The Couch,"October 27, 1994",Larry David,Andy Ackerman,S06E05
-90,6.0,6.0,The Gymnast,"November 3, 1994","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E06
-91,6.0,7.0,The Soup,"November 10, 1994",Fred Stoller,Andy Ackerman,S06E07
-92,6.0,8.0,The Mom &amp; Pop Store,"November 17, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E08
-93,6.0,9.0,The Secretary,"December 8, 1994","Carol Leifer, Marjorie Gross",David Owen Trainor,S06E09
-94,6.0,10.0,The Race,"December 15, 1994","Tom Gammill, Max Pross and Larry David",Andy Ackerman,S06E10
-95,6.0,11.0,The Switch,"January 5, 1995",Bruce Kirschbaum and Sam Kass,Andy Ackerman,S06E11
-96,6.0,12.0,The Label Maker,"January 19, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E12
-97,6.0,13.0,The Scofflaw,"January 26, 1995",Peter Mehlman,Andy Ackerman,S06E13
-98,6.0,16.0,The Beard,"February 9, 1995",Carol Leifer,Andy Ackerman,S06E16
-99,6.0,17.0,The Kiss Hello,"February 16, 1995","Larry David, Jerry Seinfeld",Andy Ackerman,S06E17
-100,6.0,18.0,The Doorman,"February 23, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E18
-101,6.0,19.0,The Jimmy,"March 16, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S06E19
-102,6.0,20.0,The Doodle,"April 6, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E20
-103,6.0,21.0,The Fusilli Jerry,"April 27, 1995",Marjorie Gross,Andy Ackerman,S06E21
-104,6.0,22.0,The Diplomat's Club,"May 4, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E22
-105,6.0,23.0,The Face Painter,"May 11, 1995",Larry David,Andy Ackerman,S06E23
-106,6.0,24.0,The Understudy,"May 18, 1995","Marjorie Gross, Carol Leifer",Andy Ackerman,S06E24
-107,7.0,1.0,The Engagement,"September 21, 1995",Larry David,Andy Ackerman,S07E01
-108,7.0,2.0,The Postponement,"September 28, 1995",Larry David,Andy Ackerman,S07E02
-109,7.0,3.0,The Maestro,"October 5, 1995",Larry David,Andy Ackerman,S07E03
-110,7.0,4.0,The Wink,"October 12, 1995","Tom Gammill, Max Pross",Andy Ackerman,S07E04
-111,7.0,5.0,The Hot Tub,"October 19, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S07E05
-112,7.0,6.0,The Soup Nazi,"November 2, 1995",Spike Feresten,Andy Ackerman,S07E06
-113,7.0,7.0,The Secret Code,"November 9, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E07
-114,7.0,8.0,The Pool Guy,"November 16, 1995",David Mandel,Andy Ackerman,S07E08
-115,7.0,9.0,The Sponge,"December 7, 1995",Peter Mehlman,Andy Ackerman,S07E09
-116,7.0,10.0,The Gum,"December 14, 1995","Tom Gammill, Max Pross",Andy Ackerman,S07E10
-117,7.0,11.0,The Rye,"January 4, 1996",Carol Leifer,Andy Ackerman,S07E11
-118,7.0,12.0,The Caddy,"January 25, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E12
-119,7.0,13.0,The Seven,"February 1, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E13
-120,7.0,14.0,The Cadillac (1),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E14
-121,7.0,15.0,The Cadillac (2),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E15
-122,7.0,16.0,The Shower Head,"February 15, 1996","Peter Mehlman, Marjorie Gross",Andy Ackerman,S07E16
-123,7.0,17.0,The Doll,"February 22, 1996","Tom Gammill, Max Pross",Andy Ackerman,S07E17
-124,7.0,18.0,The Friars Club (a.k.a. The Gypsies),"March 7, 1996",David Mandel,Andy Ackerman,S07E18
-125,7.0,19.0,The Wig Master,"April 4, 1996",Spike Feresten,Andy Ackerman,S07E19
-126,7.0,20.0,The Calzone,"April 25, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E20
-127,7.0,21.0,The Bottle Deposit (1),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E21
-128,7.0,22.0,The Bottle Deposit (2),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E22
-129,7.0,23.0,The Wait Out,"May 9, 1996",Peter Mehlman,Andy Ackerman,S07E23
-130,7.0,24.0,The Invitations,"May 16, 1996",Larry David,Andy Ackerman,S07E24
-131,8.0,1.0,The Foundation,"September 19, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E01
-132,8.0,2.0,The Soul Mate,"September 26, 1996",Peter Mehlman,Andy Ackerman,S08E02
-133,8.0,3.0,The Bizarro Jerry,"October 3, 1996",David Mandel,Andy Ackerman,S08E03
-134,8.0,4.0,The Little Kicks,"October 10, 1996",Spike Feresten,Andy Ackerman,S08E04
-135,8.0,5.0,The Package,"October 17, 1996",Jennifer Crittenden,Andy Ackerman,S08E05
-136,8.0,6.0,The Fatigues,"October 31, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S08E06
-137,8.0,7.0,The Checks,"November 7, 1996","Steve O'Donnell and Tom Gammill, Max Pross",Andy Ackerman,S08E07
-138,8.0,8.0,The Chicken Roaster,"November 14, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E08
-139,8.0,9.0,The Abstinence,"November 21, 1996",Steve Koren,Andy Ackerman,S08E09
-140,8.0,10.0,The Andrea Doria,"December 19, 1996",Spike Feresten,Andy Ackerman,S08E10
-141,8.0,11.0,The Little Jerry,"January 9, 1997",Jennifer Crittenden,Andy Ackerman,S08E11
-142,8.0,12.0,The Money,"January 16, 1997",Peter Mehlman,Andy Ackerman,S08E12
-143,8.0,13.0,The Comeback,"January 30, 1997","Gregg Kavet, Andy Robin",David Owen Trainor,S08E13
-144,8.0,14.0,The Van Buren Boys,"February 6, 1997",Darin Henry,Andy Ackerman,S08E14
-145,8.0,15.0,The Susie,"February 13, 1997",David Mandel,Andy Ackerman,S08E15
-146,8.0,16.0,The Pothole,"February 20, 1997",Steve O'Donnell and Dan O'Keefe,Andy Ackerman,S08E16
-147,8.0,17.0,The English Patient,"March 13, 1997",Steve Koren,Andy Ackerman,S08E17
-148,8.0,18.0,The Nap,"April 10, 1997","Gregg Kavet, Andy Robin",Andy Ackerman,S08E18
-149,8.0,19.0,The Yada Yada,"April 24, 1997",Peter Mehlman and Jill Franklyn,Andy Ackerman,S08E19
-150,8.0,20.0,The Millennium,"May 1, 1997",Jennifer Crittenden,Andy Ackerman,S08E20
-151,8.0,21.0,The Muffin Tops,"May 8, 1997",Spike Feresten,Andy Ackerman,S08E21
-152,8.0,22.0,The Summer of George,"May 15, 1997","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E22
-153,9.0,1.0,The Butter Shave,"September 25, 1997","Alec Berg, Jeff Schaffer, David Mandel",Andy Ackerman,S09E01
-154,9.0,2.0,The Voice,"October 2, 1997","Alec Berg, Jeff Schaffer, David Mandel",Andy Ackerman,S09E02
-155,9.0,3.0,The Serenity Now,"October 9, 1997",Steve Koren,Andy Ackerman,S09E03
-156,9.0,4.0,The Blood,"October 16, 1997",Dan O'Keefe,Andy Ackerman,S09E04
-157,9.0,5.0,The Junk Mail,"October 30, 1997",Spike Feresten,Andy Ackerman,S09E05
-158,9.0,6.0,The Merv Griffin Show,"November 6, 1997",Bruce Eric Kaplan,Andy Ackerman,S09E06
-159,9.0,7.0,The Slicer,"November 13, 1997","Gregg Kavet, Andy Robin",Andy Ackerman,S09E07
-160,9.0,8.0,The Betrayal,"November 20, 1997","David Mandel, Peter Mehlman",Andy Ackerman,S09E08
-161,9.0,9.0,The Apology,"December 11, 1997",Jennifer Crittenden,Andy Ackerman,S09E09
-162,9.0,10.0,The Strike,"December 18, 1997","Dan O'Keefe, Alec Berg, Jeff Schaffer",Andy Ackerman,S09E10
-163,9.0,11.0,The Dealership,"January 8, 1998",Steve Koren,Andy Ackerman,S09E11
-164,9.0,12.0,The Reverse Peephole (a.k.a. The Man Fur),"January 15, 1998",Spike Feresten,Andy Ackerman,S09E12
-165,9.0,13.0,The Cartoon,"January 29, 1998",Bruce Eric Kaplan,Andy Ackerman,S09E13
-166,9.0,14.0,The Strongbox,"February 5, 1998",Dan O'Keefe,Andy Ackerman,S09E14
-167,9.0,15.0,The Wizard,"February 26, 1998",Steve Lookner,Andy Ackerman,S09E15
-168,9.0,16.0,The Burning,"March 19, 1998",Jennifer Crittenden,Andy Ackerman,S09E16
-169,9.0,17.0,The Bookstore,"April 9, 1998",Spike Feresten,Andy Ackerman,S09E17
-170,9.0,18.0,The Frogger,"April 23, 1998","Gregg Kavet, Andy Robin",Andy Ackerman,S09E18
-171,9.0,19.0,The Maid,"April 30, 1998","Alec Berg, David Mandel, Jeff Schaffer",Andy Ackerman,S09E19
-172,9.0,20.0,The Puerto Rican Day,"May 7, 1998","Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin and Jeff Schaffer.",Andy Ackerman,S09E20
-173,9.0,23.0,The Finale,"May 14, 1998",Larry David,Andy Ackerman,S09E23
+,Season,EpisodeNo,Title,AirDate,Writers,Director,SEID,Summary
+0,1.0,0.0,"Good News, Bad News","July 5, 1989","Larry David, Jerry Seinfeld",Art Wolff,S01E00,Jerry and George discuss a woman Jerry met in Michigan who's coming to visit New York. Jerry struggles with mixed signals about whether it's a romantic encounter. Kramer (then called Kessler) makes his first appearance.
+1,1.0,1.0,The Stakeout,"May 31, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E01,"After meeting a woman at a party but failing to get her number Jerry stakes out her office building with George. Introduces the concept of ""The Rules"" of dating."
+2,1.0,2.0,The Robbery,"June 7, 1990",Matt Goldman,Tom Cherones,S01E02,After Jerry's apartment gets robbed Elaine helps him look for a new place. When he considers taking the apartment above Kramer's it causes tension between the friends.
+3,1.0,3.0,Male Unbonding,"June 14, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E03,"Jerry tries to ""break up"" with a childhood friend he no longer wants to spend time with. Elaine helps him devise strategies to end the friendship."
+4,1.0,4.0,The Stock Tip,"June 21, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E04,George convinces Jerry to invest in a stock based on an inside tip. Jerry's relationship with a new girlfriend is tested during a weekend trip that coincides with bad weather.
+5,2.0,1.0,The Ex-Girlfriend,"January 16, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E01,George wants to break up with his girlfriend Marlene so he asks Jerry to do it for him. Jerry ends up dating her instead.
+6,2.0,2.0,The Pony Remark,"January 30, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E02,At a dinner party Jerry makes an offensive remark about ponies to a relative who later dies. He debates whether to attend the funeral.
+7,2.0,3.0,The Jacket,"February 6, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E03,Jerry buys an expensive suede jacket with a pink striped lining. He wears it to meet Elaine's father but gets it ruined in the snow.
+8,2.0,4.0,The Phone Message,"February 13, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E04,George leaves several angry messages on a woman's answering machine and attempts to switch her tape with help from Jerry.
+9,2.0,5.0,The Apartment,"April 4, 1991",Peter Mehlman,Tom Cherones,S02E05,Jerry offers to help Elaine get the apartment above his but regrets it when he realizes how it would affect his life.
+10,2.0,6.0,The Statue,"April 11, 1991",Larry David,Tom Cherones,S02E06,Jerry receives a small statue from his father's friend. When he has a cleaning person over the statue goes missing.
+11,2.0,7.0,The Revenge,"April 18, 1991",Larry David,Tom Cherones,S02E07,George quits his job and then tries to get it back. Jerry suspects his laundromat owner stole money from his laundry.
+12,2.0,8.0,The Heart Attack,"April 25, 1991",Larry Charles,Tom Cherones,S02E08,George thinks he's having a heart attack and ends up seeing a holistic healer recommended by Kramer.
+13,2.0,9.0,The Deal,"May 2, 1991",Larry Charles,Tom Cherones,S02E09,Jerry and Elaine try to establish rules to sleep together while remaining friends.
+14,2.0,10.0,The Baby Shower,"May 16, 1991",Larry Charles,Tom Cherones,S02E10,Elaine hosts a baby shower at Jerry's apartment. George plots revenge against a woman who snubbed him.
+15,2.0,11.0,The Chinese Restaurant,"May 23, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E11,Jerry George and Elaine wait for a table at a Chinese restaurant growing increasingly hungry and frustrated.
+16,2.0,12.0,The Busboy,"June 26, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E12,George and Elaine accidentally get a busboy fired. Elaine tries to get rid of a houseguest who won't leave.
+17,3.0,1.0,The Note,"September 18, 1991",Larry David,Tom Cherones,S03E01,Jerry sees a massage therapist under false pretenses using a fake doctor's note from Elaine. George becomes concerned about his sexuality after getting a massage from a male therapist.
+18,3.0,2.0,The Truth,"September 25, 1991",Elaine Pope,David Steinberg,S03E02,George breaks up with a woman who's friends with Elaine prompting her to claim she's suicidal. Jerry seeks relationship advice from a friend in the mental health profession.
+19,3.0,3.0,The Pen,"October 2, 1991",Larry David,Tom Cherones,S03E03,Jerry and Elaine visit Jerry's parents in Florida where Jerry accepting a special pen from his parents' neighbor causes drama in their retirement community.
+20,3.0,4.0,The Dog,"October 9, 1991",Larry David,Tom Cherones,S03E04,Jerry reluctantly agrees to watch a dog for a fellow airline passenger who falls ill. The dog's incessant barking drives him crazy.
+21,3.0,5.0,The Library,"October 16, 1991",Larry Charles,Joshua White,S03E05,Jerry discovers he has an overdue library book from 1971. Kramer begins dating a librarian who is investigating the case.
+22,3.0,6.0,The Parking Garage,"October 30, 1991",Larry David,Tom Cherones,S03E06,The gang spends an entire episode looking for their car in a parking garage at a shopping mall.
+23,3.0,7.0,The Cafe,"November 6, 1991",Tom Leopold,Tom Cherones,S03E07,Jerry tries to help a struggling restaurant owner by suggesting he add soup to his menu. George prepares for an IQ test.
+24,3.0,8.0,The Tape,"November 13, 1991","Larry David and Bob Shaw, Don McEnery",David&nbsp; Steinberg,S03E08,George becomes obsessed with a sexy voice Elaine recorded as a joke on Jerry's answering machine tape.
+25,3.0,9.0,The Nose Job,"November 20, 1991",Peter Mehlman,Tom Cherones,S03E09,George dates a woman with a big nose and struggles with whether to suggest she get a nose job. Jerry dates a beautiful woman who's a bad actress.
+26,3.0,10.0,The Stranded,"November 27, 1991","Larry David, Jerry Seinfeld and Matt Goldman",Tom Cherones,S03E10,Jerry and Elaine leave George at a party where he's stranded with a couple they don't know very well.
+27,3.0,11.0,The Alternate Side,"December 4, 1991",Larry David and Bill Masters,Tom Cherones,S03E11,Kramer gets a line in a Woody Allen movie. Jerry's car is stolen and Elaine dates a much older man.
+28,3.0,12.0,The Red Dot,"December 11, 1991",Larry David,Tom Cherones,S03E12,George buys Elaine a marked-down cashmere sweater with a red dot on it as a Christmas gift.
+29,3.0,13.0,The Subway,"January 8, 1992",Larry David,Tom Cherones,S03E13,Each character has a separate adventure while riding the subway.
+30,3.0,14.0,The Pez Dispenser,"January 15, 1992",Larry David,Tom Cherones,S03E14,Jerry tries to figure out if a kiss from a female friend was romantic or out of pity.
+31,3.0,15.0,The Suicide,"January 29, 1992",Tom Leopold,Tom Cherones,S03E15,Jerry's neighbor attempts suicide and Jerry starts dating the neighbor's girlfriend while he's in a coma.
+32,3.0,16.0,The Fix-Up,"February 5, 1992","Elaine Pope, Larry Charles",Tom Cherones,S03E16,Jerry and Elaine set up George and Elaine's friend on a blind date with unexpected results.
+33,3.0,17.0,The Boyfriend (1),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E17,Jerry becomes friends with former Mets player Keith Hernandez who then asks out Elaine.
+34,3.0,18.0,The Boyfriend (2),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E18,"George tries to extend his unemployment benefits. Jerry and Kramer investigate a ""magic loogie"" incident involving Keith Hernandez."
+35,3.0,19.0,The Limo,"February 26, 1992",Larry Charles / Story By Marc Jaffe,Tom Cherones,S03E19,George and Jerry take a limo reserved for someone else from the airport leading to a case of mistaken identity.
+36,3.0,20.0,The Good Samaritan,"March 4, 1992",Peter Mehlman,Jason Alexander,S03E20,Jerry tracks down a hit-and-run driver who happens to be an attractive woman.
+37,3.0,21.0,The Letter,"March 25, 1992",Larry David,Tom Cherones,S03E21,Jerry dates an artist who plagiarizes a famous letter. Elaine gets kicked out of a baseball game for wearing an Orioles cap in the Yankees' owner's box.
+38,3.0,22.0,The Parking Space,"April 22, 1992",Larry David and Greg Daniels,Tom Cherones,S03E22,Jerry and his friend Mike argue over the ethics of how Mike parked his car.
+39,3.0,23.0,The Keys,"May 6, 1992",Larry Charles,Tom Cherones,S03E23,Kramer abuses his spare key privileges to Jerry's apartment prompting Jerry to demand all his keys back.
+40,4.0,1.0,The Trip (1),"August 12, 1992",Larry Charles,Tom Cherones,S04E01,Jerry and George go to Los Angeles where Kramer is suspected of being a serial killer.
+41,4.0,2.0,The Trip (2),"August 19, 1992",Larry Charles,Tom Cherones,S04E02,Jerry and George continue their stay in Los Angeles trying to clear Kramer's name.
+42,4.0,3.0,The Pitch,"September 16, 1992",Larry Charles,Tom Cherones,S04E03,"Jerry and George pitch their idea for a ""show about nothing"" to NBC executives."
+43,4.0,4.0,The Ticket,"September 16, 1992",Larry David,Tom Cherones,S04E04,Kramer suffers a head injury that affects his balance. George and Jerry continue developing their TV pilot.
+44,4.0,5.0,The Wallet (1),"September 23, 1992",Larry David,Tom Cherones,S04E05,Jerry's father comes to New York to see a doctor but claims the doctor lost his wallet.
+45,4.0,6.0,The Watch (2),"September 30, 1992",Larry David,Tom Cherones,S04E06,Jerry tries to buy back his watch from his uncle. George attempts to get out of his NBC deal.
+46,4.0,7.0,The Bubble Boy,"October 7, 1992","Larry David, Larry Charles",Tom Cherones,S04E07,The gang visits an ill boy who lives in a bubble on their way to Susan's cabin.
+47,4.0,8.0,The Cheever Letters,"October 28, 1992","Larry David, Larry Charles",Tom Cherones,S04E08,Susan's father's cabin burns down due to a Cuban cigar given to Kramer by Susan's father.
+48,4.0,9.0,The Opera,"November 4, 1992",Larry Charles,Tom Cherones,S04E09,"The gang attends the opera and encounters ""Crazy"" Joe Davola."
+49,4.0,10.0,The Virgin,"November 11, 1992",Peter Mehlman,Tom Cherones,S04E10,Jerry dates a virgin while trying to write the pilot with George.
+50,4.0,11.0,The Contest,"November 18, 1992",Larry David,Tom Cherones,S04E11,"The gang makes a bet to see who can go the longest without ""self-gratification."""
+51,4.0,12.0,The Airport,"November 25, 1992",Larry Charles,Tom Cherones,S04E12,Jerry flies first class while Elaine suffers in coach on the same flight.
+52,4.0,13.0,The Pick,"December 16, 1992",Larry Charles,Tom Cherones,S04E13,Elaine's Christmas card photo accidentally reveals too much. Jerry's girlfriend sees him picking his nose.
+53,4.0,14.0,The Movie,"January 6, 1993","Steve Skrovan, Bill Masters, Jon Hayman",Tom Cherones,S04E14,The gang has trouble coordinating meeting at a movie theater.
+54,4.0,15.0,The Visa,"January 27, 1993",Peter Mehlman,Tom Cherones,S04E15,Babu returns and faces deportation due to a mail mix-up involving Jerry.
+55,4.0,16.0,The Shoes,"February 4, 1993","Larry David, Jerry Seinfeld",Tom Cherones,S04E16,George is caught staring at the NBC executive's daughter's cleavage jeopardizing their TV deal.
+56,4.0,17.0,The Outing,"February 11, 1993",Larry Charles,Tom Cherones,S04E17,Jerry and George are mistakenly outed as a gay couple in a newspaper article.
+57,4.0,18.0,The Old Man,"February 18, 1993",Bruce Kirschbaum,Tom Cherones,S04E18,"Jerry Elaine and George each help senior citizens for a program called ""Senior Helpers."""
+58,4.0,19.0,The Implant,"February 25, 1993",Peter Mehlman,Tom Cherones,S04E19,Jerry dumps a girlfriend because he thinks her breasts are fake. George tries to get a bereavement discount on airfare.
+59,4.0,20.0,The Junior Mint,"March 18, 1993",Andy Robin,Tom Cherones,S04E20,During surgery on Jerry's ex-girlfriend Kramer and Jerry accidentally drop a Junior Mint inside her body.
+60,4.0,21.0,The Smelly Car,"April 15, 1993","Larry David, Peter Mehlman",Tom Cherones,S04E21,A valet parking attendant with intense body odor leaves a lasting smell in Jerry's car.
+61,4.0,22.0,The Handicap Spot,"May 13, 1993",Larry David,Tom Cherones,S04E22,The gang parks in a handicap spot leading to a disabled person's injury.
+62,4.0,23.0,The Pilot (1),"May 20, 1993",Larry David,Tom Cherones,S04E23,Jerry and George's show gets made into a pilot. Jerry dates the actress playing Elaine.
+63,4.0,24.0,The Pilot (2),"May 20, 1993",Larry David,Tom Cherones,S04E24,The pilot airs but NBC passes on picking up the show.
+64,5.0,1.0,The Mango,"September 16, 1993","Lawrence H. Levy, Buck Dancer (Larry David pseudonym)",Tom Cherones,S05E01,Jerry discovers his girlfriend faked her enthusiasm during intimacy. George becomes obsessed with getting a good deal on fruit.
+65,5.0,2.0,The Puffy Shirt,"September 23, 1993",Larry David,Tom Cherones,S05E02,"Jerry accidentally agrees to wear a ""puffy"" pirate shirt on the Today Show."
+66,5.0,3.0,The Glasses,"September 30, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E03,Elaine thinks she got rabies from being bitten by a dog. George gets new glasses.
+67,5.0,4.0,The Sniffing Accountant,"October 7, 1993","Larry David, Jerry Seinfeld",Tom Cherones,S05E04,Jerry Kramer and Newman investigate whether their accountant is a cocaine user.
+68,5.0,5.0,The Bris,"October 14, 1993",Larry Charles,Tom Cherones,S05E05,"Jerry and Elaine are asked to be godparents and organize a bris. Kramer spots a ""pig man"" in the hospital."
+69,5.0,6.0,The Lip Reader,"October 28, 1993",Carol Leifer,Tom Cherones,S05E06,"George dates a deaf woman and takes advantage of her lip reading ability. Jerry dates a model who's a ""laughter""."
+70,5.0,7.0,The Non-Fat Yogurt,"November 4, 1993",Larry David,Tom Cherones,S05E07,Kramer invests in a non-fat frozen yogurt shop that may not be serving non-fat yogurt.
+71,5.0,8.0,The Barber,"November 11, 1993",Andy Robin,Tom Cherones,S05E08,Jerry struggles to break up with his long-time barber. George gets a job offer through Elaine's boyfriend.
+72,5.0,9.0,The Masseuse,"November 18, 1993",Peter Mehlman,Tom Cherones,S05E09,Jerry dates a masseuse who won't give him a massage. George's girlfriend likes Jerry more than him.
+73,5.0,10.0,The Cigar Store Indian,"December 9, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E10,Jerry offends Elaine's Native American friend with an insensitive gift.
+74,5.0,11.0,The Conversion,"December 16, 1993",Bruce Kirschbaum,Tom Cherones,S05E11,George considers converting to Latvian Orthodox to impress his girlfriend.
+75,5.0,12.0,The Stall,"January 6, 1994",Larry Charles,Tom Cherones,S05E12,"Elaine realizes her boyfriend is a ""mimbo"" (male bimbo). Jerry's girlfriend won't share her toilet paper."
+76,5.0,13.0,The Dinner Party,"February 3, 1994",Larry David,Tom Cherones,S05E13,The gang tries to buy a chocolate babka and black and white cookies for a dinner party.
+77,5.0,14.0,The Marine Biologist,"February 10, 1994","Ron Hague, Charlie Rubin",Tom Cherones,S05E14,George pretends to be a marine biologist to impress a woman. Kramer golfs on the beach.
+78,5.0,15.0,The Pie,"February 17, 1994","Tom Gammill, Max Pross",Tom Cherones,S05E15,Jerry's girlfriend refuses to eat or explain why she won't eat a piece of pie.
+79,5.0,16.0,The Stand-In,"February 24, 1994",Larry David,Tom Cherones,S05E16,Kramer's friend Mickey the stand-in wants to date Elaine. George's girlfriend won't break up with him.
+80,5.0,17.0,The Wife,"March 17, 1994",Peter Mehlman,Tom Cherones,S05E17,Jerry gets his dry cleaning discount by pretending a girlfriend is his wife.
+81,5.0,18.0,The Raincoats,April 28 1994,"Tom Gammill, Max Pross and Larry David, Jerry Seinfeld",Tom Cherones,S05E18,Jerry's parents stay with him while their house is being fumigated. Kramer and Morty go into business together.
+82,5.0,20.0,The Fire,"May 5, 1994",Larry Charles,Tom Cherones,S05E20,Jerry is caught making out during Schindler's List. The raincoat business falls apart.
+83,5.0,21.0,The Hamptons,"May 12, 1994","Peter Mehlman, Carol Leifer",Tom Cherones,S05E21,George panics and pushes everyone out of the way during a small fire at a children's birthday party.
+84,5.0,22.0,The Opposite,"May 19, 1994","Andy Cowan and Larry David, Jerry Seinfeld",Tom Cherones,S05E22,"The gang visits the Hamptons where George experiences ""shrinkage"" and Jerry's girlfriend sees the ugly baby."
+85,6.0,1.0,The Chaperone,"September 22, 1994","Larry David, Bill Masters, Bob Shaw",Andy Ackerman,S06E01,George does the opposite of every instinct he has and his life improves dramatically.
+86,6.0,2.0,The Big Salad,"September 29, 1994",Larry David,Andy Ackerman,S06E02,Jerry dates Miss Rhode Island and Kramer becomes her pageant coach.
+87,6.0,3.0,The Pledge Drive,"October 6, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E03,"George's girlfriend takes credit for buying Elaine a ""big salad"" that George actually paid for."
+88,6.0,4.0,The Chinese Woman,"October 13, 1994",Peter Mehlman,Andy Ackerman,S06E04,Jerry's habit of eating candy bars with a knife and fork starts a trend. Kramer organizes a PBS pledge drive.
+89,6.0,5.0,The Couch,"October 27, 1994",Larry David,Andy Ackerman,S06E05,Jerry dates a woman with a misleading phone voice. George's parents separate.
+90,6.0,6.0,The Gymnast,"November 3, 1994","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E06,Jerry's new couch gets ruined. Elaine dates a guy who's anti-abortion.
+91,6.0,7.0,The Soup,"November 10, 1994",Fred Stoller,Andy Ackerman,S06E07,Jerry dates an Olympic gymnast. Mr. Pitt becomes obsessed with a 3D painting.
+92,6.0,8.0,The Mom &amp; Pop Store,"November 17, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E08,Jerry accepts a suit from Kenny Bania in exchange for a meal but debates what constitutes a meal.
+93,6.0,9.0,The Secretary,"December 8, 1994","Carol Leifer, Marjorie Gross",David Owen Trainor,S06E09,Jerry can't figure out if he's invited to Tim Whatley's party. Kramer tries to save a small shoe-repair shop.
+94,6.0,10.0,The Race,"December 15, 1994","Tom Gammill, Max Pross and Larry David",Andy Ackerman,S06E10,George hires an unattractive secretary to avoid being attracted to her.
+95,6.0,11.0,The Switch,"January 5, 1995",Bruce Kirschbaum and Sam Kass,Andy Ackerman,S06E11,Jerry reconnects with a high school classmate who still thinks he cheated in a race.
+96,6.0,12.0,The Label Maker,"January 19, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E12,Jerry tries to date his girlfriend's roommate. Kramer reveals his first name.
+97,6.0,13.0,The Scofflaw,"January 26, 1995",Peter Mehlman,Andy Ackerman,S06E13,Jerry receives a label maker from Tim Whatley that he suspects is regifted.
+98,6.0,16.0,The Beard,"February 9, 1995",Carol Leifer,Andy Ackerman,S06E16,George's friend pretends to have cancer. Newman finally gets caught for years of parking tickets.
+99,6.0,17.0,The Kiss Hello,"February 16, 1995","Larry David, Jerry Seinfeld",Andy Ackerman,S06E17,Clips from the first 100 episodes are shown in this two-part episode.
+100,6.0,18.0,The Doorman,"February 23, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E18,More clips from the first 100 episodes are shown.
+101,6.0,19.0,The Jimmy,"March 16, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S06E19,"Elaine tries to ""convert"" a gay man. Jerry takes a lie detector test about watching Melrose Place."
+102,6.0,20.0,The Doodle,"April 6, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E20,Jerry's policy of not kissing hello causes problems in his building.
+103,6.0,21.0,The Fusilli Jerry,"April 27, 1995",Marjorie Gross,Andy Ackerman,S06E21,Jerry has trouble with Mr. Pitt's doorman. Kramer and Frank develop a male bra.
+104,6.0,22.0,The Diplomat's Club,"May 4, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E22,"Kramer hangs out with a guy who refers to himself in the third person as ""Jimmy."""
+105,6.0,23.0,The Face Painter,"May 11, 1995",Larry David,Andy Ackerman,S06E23,George is upset about a doodle his girlfriend drew of him. Jerry's girlfriend doesn't keep her apartment clean.
+106,6.0,24.0,The Understudy,"May 18, 1995","Marjorie Gross, Carol Leifer",Andy Ackerman,S06E24,Kramer makes a statue of Jerry out of fusilli pasta. Puddy steals Jerry's move.
+107,7.0,1.0,The Engagement,"September 21, 1995",Larry David,Andy Ackerman,S07E01,Jerry has a superstition about seeing his girlfriend twice in the same day. George's boss thinks he's racist.
+108,7.0,2.0,The Postponement,"September 28, 1995",Larry David,Andy Ackerman,S07E02,David Puddy paints his face at a hockey game scaring a priest. Elaine's boyfriend is a germaphobe.
+109,7.0,3.0,The Maestro,"October 5, 1995",Larry David,Andy Ackerman,S07E03,Jerry dates an understudy who may have deliberately injured Bette Midler in a softball game.Season
+110,7.0,4.0,The Wink,"October 12, 1995","Tom Gammill, Max Pross",Andy Ackerman,S07E04,Jerry and George make a pact to grow up but only George follows through getting engaged to Susan.
+111,7.0,5.0,The Hot Tub,"October 19, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S07E05,George wants to postpone his wedding. Elaine is jealous of a friend's engagement.
+112,7.0,6.0,The Soup Nazi,"November 2, 1995",Spike Feresten,Andy Ackerman,S07E06,"Elaine dates a conductor who insists on being called ""The Maestro."""
+113,7.0,7.0,The Secret Code,"November 9, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E07,George's winking causes multiple misunderstandings.
+114,7.0,8.0,The Pool Guy,"November 16, 1995",David Mandel,Andy Ackerman,S07E08,Jean-Paul the marathon runner stays with Jerry who's worried about him oversleeping.
+115,7.0,9.0,The Sponge,"December 7, 1995",Peter Mehlman,Andy Ackerman,S07E09,The gang discovers a soup vendor with strict ordering rules.
+116,7.0,10.0,The Gum,"December 14, 1995","Tom Gammill, Max Pross",Andy Ackerman,S07E10,George refuses to share his ATM code with anyone including Susan.
+117,7.0,11.0,The Rye,"January 4, 1996",Carol Leifer,Andy Ackerman,S07E11,The pool guy from Jerry's gym tries too hard to be his friend.
+118,7.0,12.0,The Caddy,"January 25, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E12,Elaine hoards her favorite contraceptive sponge when it's discontinued.
+119,7.0,13.0,The Seven,"February 1, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E13,Lloyd Braun returns from the mental hospital and Kramer helps him sell Chinese gum.
+120,7.0,14.0,The Cadillac (1),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E14,Jerry and George try to replace a marble rye bread that George's parents took back.
+121,7.0,15.0,The Cadillac (2),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E15,Kramer's caddy gives him bad advice. Jerry's girlfriend never wears the same outfit twice.
+122,7.0,16.0,The Shower Head,"February 15, 1996","Peter Mehlman, Marjorie Gross",Andy Ackerman,S07E16,"George wants to name his future child ""Seven"" after Mickey Mantle's number."
+123,7.0,17.0,The Doll,"February 22, 1996","Tom Gammill, Max Pross",Andy Ackerman,S07E17,Jerry buys his father a Cadillac causing problems in his parents' retirement community.
+124,7.0,18.0,The Friars Club (a.k.a. The Gypsies),"March 7, 1996",David Mandel,Andy Ackerman,S07E18,Morty Seinfeld faces impeachment as president of his condo association over the Cadillac.
+125,7.0,19.0,The Wig Master,"April 4, 1996",Spike Feresten,Andy Ackerman,S07E19,Jerry's parents move to Del Boca Vista. Kramer and Newman install black market shower heads.
+126,7.0,20.0,The Calzone,"April 25, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E20,George is disturbed by a doll that looks like his mother. Jerry's girlfriend has a toy collection.
+127,7.0,21.0,The Bottle Deposit (1),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E21,Jerry loses a jacket borrowed from the Friars Club. Kramer experiments with polyphasic sleep.
+128,7.0,22.0,The Bottle Deposit (2),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E22,Kramer stays with Jerry while a wig master for Joseph and the Amazing Technicolor Dreamcoat uses his apartment.
+129,7.0,23.0,The Wait Out,"May 9, 1996",Peter Mehlman,Andy Ackerman,S07E23,George gets his boss Steinbrenner hooked on calzones. Kramer bakes his clothes.
+130,7.0,24.0,The Invitations,"May 16, 1996",Larry David,Andy Ackerman,S07E24,Kramer and Newman scheme to make money off bottle deposits. Jerry's car is stolen.
+131,8.0,1.0,The Foundation,"September 19, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E01,Jerry and Elaine wait out another couple's separation hoping to date them when they split up.
+132,8.0,2.0,The Soul Mate,"September 26, 1996",Peter Mehlman,Andy Ackerman,S08E02,Susan dies from licking toxic wedding invitation envelopes. George feels oddly relieved.
+133,8.0,3.0,The Bizarro Jerry,"October 3, 1996",David Mandel,Andy Ackerman,S08E03,George must start a foundation in Susan's memory. Kramer teaches karate to children.
+134,8.0,4.0,The Little Kicks,"October 10, 1996",Spike Feresten,Andy Ackerman,S08E04,Kramer falls for Jerry's girlfriend. Newman helps him express his feelings through poetry.
+135,8.0,5.0,The Package,"October 17, 1996",Jennifer Crittenden,Andy Ackerman,S08E05,"Elaine befriends bizarro versions of Jerry George and Kramer. Jerry dates a woman with ""man hands."""
+136,8.0,6.0,The Fatigues,"October 31, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S08E06,"Elaine's terrible dancing embarrasses her at a company party. George becomes a ""bad boy."""
+137,8.0,7.0,The Checks,"November 7, 1996","Steve O'Donnell and Tom Gammill, Max Pross",Andy Ackerman,S08E07,Jerry is investigated by the post office. Kramer takes risque photos of George.
+138,8.0,8.0,The Chicken Roaster,"November 14, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E08,Jerry gets his tax audit postponed by dating his aunt's accountant. Elaine has to fire an employee in a military uniform.
+139,8.0,9.0,The Abstinence,"November 21, 1996",Steve Koren,Andy Ackerman,S08E09,Jerry receives hundreds of tiny royalty checks. Elaine dates a man who's moving to Myanmar.
+140,8.0,10.0,The Andrea Doria,"December 19, 1996",Spike Feresten,Andy Ackerman,S08E10,A Kenny Rogers Roasters sign keeps Kramer awake. Jerry and Kramer switch apartments.
+141,8.0,11.0,The Little Jerry,"January 9, 1997",Jennifer Crittenden,Andy Ackerman,S08E11,George becomes smarter when he stops having sex. Elaine's boyfriend won't have sex before becoming a doctor.
+142,8.0,12.0,The Money,"January 16, 1997",Peter Mehlman,Andy Ackerman,S08E12,George competes for an apartment with a survivor of the Andrea Doria ship disaster.
+143,8.0,13.0,The Comeback,"January 30, 1997","Gregg Kavet, Andy Robin",David Owen Trainor,S08E13,Kramer names a rooster after Jerry and enters it in cockfighting. Jerry dates a woman who's done time in prison.
+144,8.0,14.0,The Van Buren Boys,"February 6, 1997",Darin Henry,Andy Ackerman,S08E14,Jerry's parents sell their Cadillac thinking he needs money. Kramer retires to Florida.
+145,8.0,15.0,The Susie,"February 13, 1997",David Mandel,Andy Ackerman,S08E15,George obsesses over a comeback line. Jerry's tennis instructor gives him relationship advice.
+146,8.0,16.0,The Pothole,"February 20, 1997",Steve O'Donnell and Dan O'Keefe,Andy Ackerman,S08E16,Jerry mentors a troubled youth. George interviews candidates for a scholarship from the Susan Ross Foundation.
+147,8.0,17.0,The English Patient,"March 13, 1997",Steve Koren,Andy Ackerman,S08E17,"Elaine is mistaken for someone named Susie. Jerry dates a woman who calls him ""Jerry"" too much."
+148,8.0,18.0,The Nap,"April 10, 1997","Gregg Kavet, Andy Robin",Andy Ackerman,S08E18,Jerry's girlfriend's toothbrush falls in the toilet. Elaine tries to get Chinese food delivered.
+149,8.0,19.0,The Yada Yada,"April 24, 1997",Peter Mehlman and Jill Franklyn,Andy Ackerman,S08E19,Elaine hates The English Patient. Jerry dates a woman who looks different in different lighting.
+150,8.0,20.0,The Millennium,"May 1, 1997",Jennifer Crittenden,Andy Ackerman,S08E20,George installs a bed under his desk at work. Jerry's kitchen is being renovated.
+151,8.0,21.0,The Muffin Tops,"May 8, 1997",Spike Feresten,Andy Ackerman,S08E21,Jerry's dentist converts to Judaism and immediately starts telling Jewish jokes.
+152,8.0,22.0,The Summer of George,"May 15, 1997","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E22,George tries to get fired from the Yankees to take a better job with the Mets.
+153,9.0,1.0,The Butter Shave,"September 25, 1997","Alec Berg, Jeff Schaffer, David Mandel",Andy Ackerman,S09E01,Elaine starts a business selling just muffin tops. Mr. Lippman steals her idea.
+154,9.0,2.0,The Voice,"October 2, 1997","Alec Berg, Jeff Schaffer, David Mandel",Andy Ackerman,S09E02,George gets a severance package from the Yankees and plans a summer of leisure.
+155,9.0,3.0,The Serenity Now,"October 9, 1997",Steve Koren,Andy Ackerman,S09E03,Kramer uses butter as a shaving cream and ends up smelling like a human butter cookie.
+156,9.0,4.0,The Blood,"October 16, 1997",Dan O'Keefe,Andy Ackerman,S09E04,Jerry gives his girlfriend's stomach a voice. George's boss catches him having sex in his office.
+157,9.0,5.0,The Junk Mail,"October 30, 1997",Spike Feresten,Andy Ackerman,S09E05,Jerry's new girlfriend encourages him to express his emotions. Frank Costanza practices anger management.
+158,9.0,6.0,The Merv Griffin Show,"November 6, 1997",Bruce Eric Kaplan,Andy Ackerman,S09E06,Jerry's parents want him to store his blood. George combines food sex and TV.
+159,9.0,7.0,The Slicer,"November 13, 1997","Gregg Kavet, Andy Robin",Andy Ackerman,S09E07,Kramer tries to stop his mail. Jerry buys his parents a Wizard computer.
+160,9.0,8.0,The Betrayal,"November 20, 1997","David Mandel, Peter Mehlman",Andy Ackerman,S09E08,Kramer recreates The Merv Griffin Show set in his apartment.
+161,9.0,9.0,The Apology,"December 11, 1997",Jennifer Crittenden,Andy Ackerman,S09E09,Jerry dates a dermatologist. George gets a job as a Yankee food processor.
+162,9.0,10.0,The Strike,"December 18, 1997","Dan O'Keefe, Alec Berg, Jeff Schaffer",Andy Ackerman,S09E10,Shown in reverse chronological order this episode follows events at a wedding in India.
+163,9.0,11.0,The Dealership,"January 8, 1998",Steve Koren,Andy Ackerman,S09E11,George wants an apology from an old friend in AA. Jerry's girlfriend is a germaphobe.
+164,9.0,12.0,The Reverse Peephole (a.k.a. The Man Fur),"January 15, 1998",Spike Feresten,Andy Ackerman,S09E12,Kramer returns to work at H&H Bagels after a 12-year strike. George creates Festivus.
+165,9.0,13.0,The Cartoon,"January 29, 1998",Bruce Eric Kaplan,Andy Ackerman,S09E13,Puddy is promoted to car salesman. Jerry tries to get a good deal on a new car.
+166,9.0,14.0,The Strongbox,"February 5, 1998",Dan O'Keefe,Andy Ackerman,S09E14,Jerry carries a European carry-all (man purse). Newman plans a birthday party.
+167,9.0,15.0,The Wizard,"February 26, 1998",Steve Lookner,Andy Ackerman,S09E15,Elaine's New Yorker cartoon makes no sense. Kramer has a girl stalker.
+168,9.0,16.0,The Burning,"March 19, 1998",Jennifer Crittenden,Andy Ackerman,S09E16,Jerry's girlfriend has a mysterious lockbox. Kramer gets a pet parrot.
+169,9.0,17.0,The Bookstore,"April 9, 1998",Spike Feresten,Andy Ackerman,S09E17,Jerry buys his father an electronic organizer. Kramer pretends to move to Florida.
+170,9.0,18.0,The Frogger,"April 23, 1998","Gregg Kavet, Andy Robin",Andy Ackerman,S09E18,"Jerry's girlfriend says ""that's what they want you to think."" Kramer and Mickey act out diseases."
+171,9.0,19.0,The Maid,"April 30, 1998","Alec Berg, David Mandel, Jeff Schaffer",Andy Ackerman,S09E19,Jerry gets banned from a bookstore. George gets caught reading in the bathroom.
+172,9.0,20.0,The Puerto Rican Day,"May 7, 1998","Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin and Jeff Schaffer.",Andy Ackerman,S09E20,George tries to preserve his high score on an old Frogger machine.
+173,9.0,23.0,The Finale,"May 14, 1998",Larry David,Andy Ackerman,S09E23,Jerry dates his maid. Kramer changes his sleep schedule to spend more time with his girlfriend.
