@@ -4,6 +4,7 @@ import csv
 import sys
 from datetime import datetime
 from python_graphql_client import GraphqlClient
+from sentence_transformers import SentenceTransformer
 
 def load_episodes(client, model):
     
@@ -70,4 +71,5 @@ def load_episodes(client, model):
   print(f"{count} episode records inserted in {elapsed.total_seconds():.3} secs")
 
 if __name__ == "__main__":
-    load_episodes(None)
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+    load_episodes(None, model)

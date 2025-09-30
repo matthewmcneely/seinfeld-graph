@@ -6,6 +6,7 @@ import sys
 import json
 from datetime import datetime
 from python_graphql_client import GraphqlClient
+from sentence_transformers import SentenceTransformer
 
 def load_lines(client, model):
 
@@ -95,4 +96,5 @@ def load_lines(client, model):
   print(skipped, "lines skipped (no character found)")
 
 if __name__ == "__main__":
-  load_lines(None)
+  model = SentenceTransformer('all-MiniLM-L6-v2')
+  load_lines(None, model)
