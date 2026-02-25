@@ -56,7 +56,7 @@ def load_episodes(client, model):
 
       if model:
           # Encode all the text in the episode list using the sentence-transformers model
-          embeddings = model.encode([item["summary"] for item in list], show_progress_bar=False)
+          embeddings = model.encode([item["summary"] for item in list], show_progress_bar=True)
           # Add the embeddings to the list
           list = [dict(list[i], **{"summary_v": embeddings[i].tolist()}) for i in range(len(list))]
       data = client.execute(query=query, variables={"episodes": list})
@@ -71,5 +71,5 @@ def load_episodes(client, model):
   print(f"{count} episode records inserted in {elapsed.total_seconds():.3} secs")
 
 if __name__ == "__main__":
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    model = SentenceTransformer('all-mpnet-base-v2')
     load_episodes(None, model)
